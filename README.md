@@ -32,10 +32,10 @@ The problem was tackled using traditional machine learning models.
    - Scaled the numerical data for better model performance.  
 
 3. **Model Selection**:  
-   - Chose Gradient Boosting as the machine learning algorithm and constructed a 4-layer Deep Neural Network (DNN) with the architecture: (5, 20, 20, 7, 1).  
+   - Chose Gradient Boosting as the machine learning algorithm.
 
 4. **Model Building and Training**:  
-   - Built models using Sci-Kit Learn for Gradient Boosting and Keras with TensorFlow for the DNN.  
+   - Built models using Sci-Kit Learn for Gradient Boosting.  
    - Conducted training on Visual Studio with GPU support for enhanced efficiency.  
 
 5. **Model Evaluation and Output Generation**:  
